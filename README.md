@@ -1,3 +1,5 @@
+Check the 'master'branch.
+
 This project is a jewelry e-commerce website. No payment gateway accessible yet.
 
 How To Run:
